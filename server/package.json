@@ -1,0 +1,5 @@
+{
+  "name": "interactive-cli-server",
+  "private": true,
+  "type": "module"
+}

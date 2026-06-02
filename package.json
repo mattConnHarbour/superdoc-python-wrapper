@@ -1,0 +1,18 @@
+{
+  "name": "superdoc-python-wrapper",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Python wrapper for SuperDoc document manipulation",
+  "scripts": {
+    "generate": "tsx scripts/generate-operations.ts"
+  },
+  "dependencies": {
+    "superdoc": "^1.38.0",
+    "jsdom": "^24.0.0"
+  },
+  "devDependencies": {
+    "tsx": "^4.7.0",
+    "typescript": "^5.5.0"
+  }
+}
